@@ -63,3 +63,19 @@ I'm a self-taught Python developer who loves solving problems that actually matt
 <div align='center'>
     <img src='https://github-profile-trophy.vercel.app/?username=beenukahettiarachchi'>
 </div>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=beenukahettiarachchi&theme=dark" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=beenukahettiarachchi&show_icons=True&theme=dark&icon_color=fb8c00&title_color=fb8c00" alt="My GitHub stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=beenukahettiarachchi" alt="GitHub Trophy"/>
+    </td>
+  </tr>
+</table>
