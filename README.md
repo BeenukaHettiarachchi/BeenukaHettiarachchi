@@ -45,15 +45,17 @@ I'm a self-taught Python developer who loves solving problems that actually matt
 
 -->
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=beenukahettiarachchi&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=beenukahettiarachchi&show_icons=True&theme=dark&icon_color=fb8c00&title_color=fb8c00" alt="My GitHub stats" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=beenukahettiarachchi&theme=dark" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=beenukahettiarachchi&show_icons=True&theme=dark&icon_color=fb8c00&title_color=fb8c00" alt="My GitHub stats"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=beenukahettiarachchi&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=beenukahettiarachchi&show_icons=True&theme=dark&icon_color=fb8c00&title_color=fb8c00" alt="My GitHub stats" />
-</p>
 
 
 ---
