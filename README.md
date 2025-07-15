@@ -7,7 +7,7 @@ I'm a self-taught Python developer who loves solving problems that actually matt
 
 ### 🛠 Tech Stack
 - **Languages:** Python
-- **Tools:** Pyrogram, Requests, Git, VS Code
+- **Tools:** 
 - **Interests:** Automations, AI/ML (learning), Aerospace Engineering
 
 ---
