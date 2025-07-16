@@ -3,14 +3,14 @@
 
 I'm a self-taught Python developer who loves solving problems that actually matter. I build things to make life easier — for myself and for others. I'm always experimenting, learning, and trying to turn simple, clean code into useful tools people can rely on.
 
----
+
 
 ### 🛠 Tech Stack
 - **Languages:** Python
 - **Tools:** 
 - **Interests:** Automations, AI/ML (learning), Aerospace Engineering
 
----
+
 
 ### 📌 Projects  
 - [📊 Coming Soon] – Telegram Group Manager Bot
@@ -20,12 +20,12 @@ I'm a self-taught Python developer who loves solving problems that actually matt
 ### 🧠 Currently Learning
 - -->
 
----
+
 
 ### ✍️ Recent Articles
 - [Build Your First Telegram Bot with Python — For Absolute Beginners](https://beenuka.hashnode.dev/build-telegram-bot-python)
 
----
+
 
 ### 📫 Let's Connect
 <!-- LinkedIn: [linkedin.com/in/beenuka-hettiarachchi](https://linkedin.com) *(optional)*
@@ -35,7 +35,7 @@ I'm a self-taught Python developer who loves solving problems that actually matt
 - [Instagram](https://instagram.com/beenuka.hettiarachchi)
 - [Hashnode](https://beenuka.hashnode.dev)
 - [Medium](https://medium.com/@beenuka.hettiarachchi.net)
----
+
 
 <!--
 
