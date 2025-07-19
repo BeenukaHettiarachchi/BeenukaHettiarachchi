@@ -3,6 +3,7 @@
 
 I'm a self-taught Python developer who loves solving problems that actually matter. I build things to make life easier — for myself and for others. I'm always experimenting, learning, and trying to turn simple, clean code into useful tools people can rely on.
 
+Lately, I’ve also fallen in love with writing. I write articles mostly about programming, but I sometimes dive into topics that spark my curiosity
 
 
 ### 🛠 Tech Stack
