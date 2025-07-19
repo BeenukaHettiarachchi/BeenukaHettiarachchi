@@ -23,8 +23,32 @@ I'm a self-taught Python developer who loves solving problems that actually matt
 
 
 ### ✍️ Recent Articles
+<!--
 - [Build Your First Telegram Bot with Python — For Absolute Beginners](https://beenuka.hashnode.dev/build-telegram-bot-python)
+- [Give a Warm Welcome — Create Your First Telegram Welcome Bot](https://beenuka.hashnode.dev/python-telegram-welcome-bot)-->
 
+<table>
+  <tr>
+    <td>
+      <img src='src/cover-01.jpg' width='100px' alt='Cover 01' href='https://beenuka.hashnode.dev/build-telegram-bot-python'>
+    </td>
+    <td>
+      <a href='https://beenuka.hashnode.dev/build-telegram-bot-python'>
+      Build Your First Telegram Bot with Python — For Absolute Beginners
+      </a>
+    </td>
+  <tr>
+    <tr>
+    <td>
+      <img src='src/cover-02.jpg' width='100px' alt='Cover 02' href='https://beenuka.hashnode.dev/python-telegram-welcome-bot'>
+    </td>
+    <td>
+      <a href='https://beenuka.hashnode.dev/python-telegram-welcome-bot'>
+      Give a Warm Welcome — Create Your First Telegram Welcome Bot
+      </a>
+    </td>
+  <tr>
+</table>
 
 
 ### 📫 Let's Connect
