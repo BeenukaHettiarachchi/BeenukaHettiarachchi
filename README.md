@@ -37,7 +37,7 @@ I'm a self-taught Python developer who loves solving problems that actually matt
       Build Your First Telegram Bot with Python — For Absolute Beginners
       </a>
     </td>
-  <tr>
+  </tr>
     <tr>
     <td>
       <img src='src/cover-02.jpg' width='100px' alt='Cover 02' href='https://beenuka.hashnode.dev/python-telegram-welcome-bot'>
@@ -47,7 +47,7 @@ I'm a self-taught Python developer who loves solving problems that actually matt
       Give a Warm Welcome — Create Your First Telegram Welcome Bot
       </a>
     </td>
-  <tr>
+  </tr>
 </table>
 
 
