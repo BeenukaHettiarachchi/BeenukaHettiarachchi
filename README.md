@@ -49,6 +49,17 @@ Lately, I’ve also fallen in love with writing. I write articles mostly about p
       </a>
     </td>
   </tr>
+  </tr>
+    <tr>
+    <td>
+      <img src='src/cover-03.jpg' width='100px' alt='Cover 03' href='https://beenuka.hashnode.dev/python-telegram-welcome-bot'>
+    </td>
+    <td>
+      <a href='https://beenuka.hashnode.dev/inline-keyboard-telegram-bot-pyrogram'>
+      Even Your Bot Deserves Love — Build One That Asks for It
+      </a>
+    </td>
+  </tr>
 </table>
 
 
