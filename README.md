@@ -60,6 +60,17 @@ Lately, I’ve also fallen in love with writing. I write articles mostly about p
       </a>
     </td>
   </tr>
+    </tr>
+    <tr>
+    <td>
+      <img src='src/cover-04.jpg' width='100px' alt='Cover 03' href='https://beenuka.hashnode.dev/10-python-tricks-for-beginners'>
+    </td>
+    <td>
+      <a href='https://beenuka.hashnode.dev/10-python-tricks-for-beginners'>
+      10 Python Tricks That Make You Look Like a Pro — For Absolute Beginners
+      </a>
+    </td>
+  </tr>
 </table>
 
 
