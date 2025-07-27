@@ -71,6 +71,16 @@ Lately, I’ve also fallen in love with writing. I write articles mostly about p
       </a>
     </td>
   </tr>
+      <tr>
+    <td>
+      <img src='src/cover-05.jpg' width='100px' alt='Cover 03' href='https://beenuka.hashnode.dev/python-builtins-for-beginners'>
+    </td>
+    <td>
+      <a href='https://beenuka.hashnode.dev/python-builtins-for-beginners'>
+      Stop Writing Loops — 4 Python Built-ins Every Beginner Should Know
+      </a>
+    </td>
+  </tr>
 </table>
 
 
