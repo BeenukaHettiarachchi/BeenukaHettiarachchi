@@ -15,11 +15,6 @@ Lately, I’ve also fallen in love with writing. I write articles mostly about p
 
 ### 📌 Projects  
 - [📊 Coming Soon] – 🤫🤐
-<!--
----
-
-### 🧠 Currently Learning
-- -->
 
 
 
