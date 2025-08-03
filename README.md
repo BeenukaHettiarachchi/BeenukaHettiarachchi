@@ -81,6 +81,26 @@ Lately, I’ve also fallen in love with writing. I write articles mostly about p
       </a>
     </td>
   </tr>
+        <tr>
+    <td>
+      <img src='src/cover-06.jpg' width='100px' alt='Cover 03' href='https://beenuka.hashnode.dev/what-is-python-oop'>
+    </td>
+    <td>
+      <a href='https://beenuka.hashnode.dev/what-is-python-oop'>
+          Python OOP For Beginners - What Is OOP?
+      </a>
+    </td>
+  </tr>
+        <tr>
+    <td>
+      <img src='src/cover-07.jpg' width='100px' alt='Cover 03' href='https://beenuka.hashnode.dev/python-oop-classes-and-objects'>
+    </td>
+    <td>
+      <a href='https://beenuka.hashnode.dev/python-oop-classes-and-objects'>
+      Python OOP For Beginners - Classes & Objects
+      </a>
+    </td>
+  </tr>
 </table>
 
 
