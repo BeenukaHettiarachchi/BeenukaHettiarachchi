@@ -96,6 +96,28 @@ Lately, I’ve also fallen in love with writing. I write articles mostly about p
       </a>
     </td>
   </tr>
+    </tr>
+        <tr>
+    <td>
+      <img src='src/cover-08.jpg' width='100px' alt='Cover 03' href='https://beenuka.hashnode.dev/python-oop-instance-methods'>
+    </td>
+    <td>
+      <a href='https://beenuka.hashnode.dev/python-oop-instance-methods'>
+      Python OOP For Beginners - Instance Methods
+      </a>
+    </td>
+  </tr>
+    </tr>
+        <tr>
+    <td>
+      <img src='src/cover-09.jpg' width='100px' alt='Cover 03' href='https://beenuka.hashnode.dev/osint-image-location-tracking'>
+    </td>
+    <td>
+      <a href='https://beenuka.hashnode.dev/osint-image-location-tracking'>
+      The Weird Hobby — How I Used Raw IQ to Locate Exactly Where a Picture Was Taken
+      </a>
+    </td>
+  </tr>
 </table>
 
 
