@@ -58,7 +58,7 @@ Lately, I’ve also fallen in love with writing. I write articles mostly about p
     </tr>
     <tr>
     <td>
-      <img src='src/cover-04.jpg' width='100px' alt='Cover 03' href='https://beenuka.hashnode.dev/10-python-tricks-for-beginners'>
+      <img src='src/cover-04.jpg' width='100px' alt='Cover 04' href='https://beenuka.hashnode.dev/10-python-tricks-for-beginners'>
     </td>
     <td>
       <a href='https://beenuka.hashnode.dev/10-python-tricks-for-beginners'>
@@ -68,7 +68,7 @@ Lately, I’ve also fallen in love with writing. I write articles mostly about p
   </tr>
       <tr>
     <td>
-      <img src='src/cover-05.jpg' width='100px' alt='Cover 03' href='https://beenuka.hashnode.dev/python-builtins-for-beginners'>
+      <img src='src/cover-05.jpg' width='100px' alt='Cover 05' href='https://beenuka.hashnode.dev/python-builtins-for-beginners'>
     </td>
     <td>
       <a href='https://beenuka.hashnode.dev/python-builtins-for-beginners'>
@@ -78,7 +78,7 @@ Lately, I’ve also fallen in love with writing. I write articles mostly about p
   </tr>
         <tr>
     <td>
-      <img src='src/cover-06.jpg' width='100px' alt='Cover 03' href='https://beenuka.hashnode.dev/what-is-python-oop'>
+      <img src='src/cover-06.jpg' width='100px' alt='Cover 06' href='https://beenuka.hashnode.dev/what-is-python-oop'>
     </td>
     <td>
       <a href='https://beenuka.hashnode.dev/what-is-python-oop'>
@@ -88,7 +88,7 @@ Lately, I’ve also fallen in love with writing. I write articles mostly about p
   </tr>
         <tr>
     <td>
-      <img src='src/cover-07.jpg' width='100px' alt='Cover 03' href='https://beenuka.hashnode.dev/python-oop-classes-and-objects'>
+      <img src='src/cover-07.jpg' width='100px' alt='Cover 07' href='https://beenuka.hashnode.dev/python-oop-classes-and-objects'>
     </td>
     <td>
       <a href='https://beenuka.hashnode.dev/python-oop-classes-and-objects'>
