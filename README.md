@@ -1,3 +1,4 @@
+<!--
 # Hi, I'm Beenuka Hettiarachchi 
 
 
@@ -23,6 +24,7 @@ Lately, I’ve also fallen in love with writing. I write articles mostly about p
 - [Build Your First Telegram Bot with Python — For Absolute Beginners](https://beenuka.hashnode.dev/build-telegram-bot-python)
 - [Give a Warm Welcome — Create Your First Telegram Welcome Bot](https://beenuka.hashnode.dev/python-telegram-welcome-bot)-->
 
+<!--
 <table>
   <tr>
     <td>
@@ -131,17 +133,20 @@ Lately, I’ve also fallen in love with writing. I write articles mostly about p
   </tr>
 </table>
 
+-->
 
+<!--
 ### 📫 Let's Connect
 <!-- LinkedIn: [linkedin.com/in/beenuka-hettiarachchi](https://linkedin.com) *(optional)*
 - Telegram: [@your_username](https://t.me/your_username)
 - Dev Blog: [yourblog.dev](https://yourblog.dev) *(if available)*
 -->
+<!--
 - [Instagram](https://instagram.com/beenuka.hettiarachchi)
 - [Hashnode](https://beenuka.hashnode.dev)
 - [Medium](https://medium.com/@beenuka.hettiarachchi.net)
 
-
+-->
 <!--
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=beenukahettiarachchi&theme=dark)
@@ -149,7 +154,7 @@ Lately, I’ve also fallen in love with writing. I write articles mostly about p
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=beenukahettiarachchi&show_icons=True&theme=dark&icon_color=fb8c00&title_color=fb8c00)
 
 -->
-
+<!--
 
 <table>
   <tr>
@@ -166,3 +171,4 @@ Lately, I’ve also fallen in love with writing. I write articles mostly about p
     </td>
   </tr>
 </table>
+-->
